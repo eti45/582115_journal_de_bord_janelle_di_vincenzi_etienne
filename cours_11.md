@@ -14,6 +14,7 @@ Joindre la carte heuristique du projet.
 
 ### Technologies
 Nommer les technologies reliées au projet. 
+
 La technologies reliée à ce projet serait que c'est un jeux multijoueur interactif et qu'il y a échanges entre les joueurs.
 
 ### Analyse critique
